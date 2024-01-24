@@ -23,8 +23,9 @@ padding, color palette, boxes, and other elements. Be mindful of CSS to avoid ov
 elements. In short, a landing page project allows you to apply HTML and CSS skills,
 encouraging your creativity while ensuring a visually appealing and user-friendly design.
 
+  Task 3 (CALCULATOR)    (https://project-calci.netlify.app/)
 
-
-
-
+  To create a basic calculator using CSS, HTML, and JavaScript, i have implemented an
+interactive interface with buttons for addition, subtraction, multiplication, and division
+operations. The calculator should have a display screen to show user input and results. 
 
