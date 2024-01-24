@@ -14,9 +14,9 @@ Creating a personal portfolio using CSS and HTML is a popular beginner web devel
 6.Contact Section:  
 
 
-  Task 2 (Landing page)
-   In this project i learned and applied tese things
-   Through this project, I HAVE learned to create columns, divide
+  Task 2 (Landing page)  (https://task-landingpage.netlify.app/)
+  
+Through this project, I HAVE learned to create columns, divide
 sections, arrange items, and add headers and footers. The most important aspect is
 unleashing your creativity to design an impressive page. Pay attention to alignments,
 padding, color palette, boxes, and other elements. Be mindful of CSS to avoid overlapping
